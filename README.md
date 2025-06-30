@@ -77,9 +77,9 @@ Car_Damage_Detector/
 
 ---
    
-<!-- ## 🖼️ Application Snapshot
+## 🖼️ Application Snapshot
 
-![Application UI](app_screenshot.png) -->
+![Application UI](car_damage_detector_ui.png)
 
 ---
 
