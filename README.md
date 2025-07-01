@@ -9,6 +9,11 @@ You can try the tool live here: **[Car Damage Detector](https://vaibhav-project-
 
 ---
 
+## 🎥 Presentation
+Watch the full project presentation here: **[Car Damage Detector Presentation](https://vaibhav-projects.my.canva.site/car-damage-detector)**
+
+---
+
 ## 🛠 Features  
 - Upload a vehicle photo and instantly get a prediction for damage type. 
 - Classifies images into 6 target classes:
