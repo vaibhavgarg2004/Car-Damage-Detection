@@ -1,4 +1,4 @@
-# Car Damage Detector
+# 🚗 Car Damage Detector
 
 An intelligent web application built with Streamlit that automatically detects and classifies vehicle damage from images, helping users, insurers, and car repair professionals quickly assess a car’s condition. By simply uploading a photo of a vehicle (preferably from a third-quarter front or rear view), the app uses a deep learning model to predict the type of damage.
 
